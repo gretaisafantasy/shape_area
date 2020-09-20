@@ -5,6 +5,7 @@ package mypackage;
  * 
  * @author Greta Tanudjaja
  */
+
 public class Square extends Shape
 {
     // Instance variable
